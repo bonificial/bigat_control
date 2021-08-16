@@ -1,0 +1,1 @@
+[08-Nov-2020 09:25:34 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1203): User bonific1_project already has more than 'max_user_connections' active connections in /home3/bonific1/public_html/bigat/config/config.php on line 24

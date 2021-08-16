@@ -1,0 +1,12 @@
+{
+    "require": {
+
+        "kreait/firebase-php": "^5.12",
+        "alymosul/exponent-server-sdk-php": "^1.2",
+        "google/apiclient": "^2.7",
+        "google/cloud-firestore": "^1.19",
+        "grpc/grpc": "^1.38",
+        "ahsankhatri/firestore-php": "^2.0"
+
+    }
+}

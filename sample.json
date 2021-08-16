@@ -1,0 +1,517 @@
+{
+  "themLocale": {
+    "plus_code": {
+      "compound_code": "RXHC+Q8 Ruiru, Kenya",
+      "global_code": "6GCRRXHC+Q8"
+    },
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Eastern Bypass",
+            "short_name": "Eastern Bypass",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ruiru",
+            "short_name": "Ruiru",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kiambu County",
+            "short_name": "Kiambu County",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kenya",
+            "short_name": "KE",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Eastern Bypass, Ruiru, Kenya",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -1.1700798,
+              "lng": 36.971538
+            },
+            "southwest": {
+              "lat": -1.1705484,
+              "lng": 36.9708325
+            }
+          },
+          "location": {
+            "lat": -1.1703104,
+            "lng": 36.9711877
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -1.168965119708498,
+              "lng": 36.9725342302915
+            },
+            "southwest": {
+              "lat": -1.171663080291502,
+              "lng": 36.9698362697085
+            }
+          }
+        },
+        "place_id": "ChIJyW4lyZVALxgRkmmoAFAbQso",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Ruiru",
+            "short_name": "Ruiru",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kiambu County",
+            "short_name": "Kiambu County",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kenya",
+            "short_name": "KE",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Ruiru, Kenya",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -1.0900827,
+              "lng": 37.1191632
+            },
+            "southwest": {
+              "lat": -1.2172441,
+              "lng": 36.9073892
+            }
+          },
+          "location": {
+            "lat": -1.14825,
+            "lng": 36.9604534
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": -1.0900827,
+              "lng": 37.1191632
+            },
+            "southwest": {
+              "lat": -1.2172441,
+              "lng": 36.9073892
+            }
+          }
+        },
+        "place_id": "ChIJDeW0jKc4LxgR-_DLwtn6p9o",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Kiuu",
+            "short_name": "Kiuu",
+            "types": [
+              "administrative_area_level_4",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kiambu County",
+            "short_name": "Kiambu County",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kenya",
+            "short_name": "KE",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Kiuu, Kenya",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -1.145033,
+              "lng": 37.1608913
+            },
+            "southwest": {
+              "lat": -1.2604907,
+              "lng": 36.913137
+            }
+          },
+          "location": {
+            "lat": -1.1996361,
+            "lng": 36.9755982
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": -1.145033,
+              "lng": 37.1608913
+            },
+            "southwest": {
+              "lat": -1.2604907,
+              "lng": 36.913137
+            }
+          }
+        },
+        "place_id": "ChIJgR_-g_ZBLxgRnUR3v0NHyLc",
+        "types": [
+          "administrative_area_level_4",
+          "political"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Ruiru",
+            "short_name": "Ruiru",
+            "types": [
+              "administrative_area_level_3",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kiambu County",
+            "short_name": "Kiambu County",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kenya",
+            "short_name": "KE",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Ruiru, Kenya",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -1.0533752,
+              "lng": 37.1608913
+            },
+            "southwest": {
+              "lat": -1.2604907,
+              "lng": 36.8686713
+            }
+          },
+          "location": {
+            "lat": -1.1687141,
+            "lng": 36.9755982
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": -1.0533752,
+              "lng": 37.1608913
+            },
+            "southwest": {
+              "lat": -1.2604907,
+              "lng": 36.8686713
+            }
+          }
+        },
+        "place_id": "ChIJ37-9mTZBLxgRmKUGIYzBbi0",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Ruiru",
+            "short_name": "Ruiru",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kiambu County",
+            "short_name": "Kiambu County",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kenya",
+            "short_name": "KE",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Ruiru, Kenya",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -1.0055808,
+              "lng": 37.1882616
+            },
+            "southwest": {
+              "lat": -1.2604907,
+              "lng": 36.8686713
+            }
+          },
+          "location": {
+            "lat": -1.1220675,
+            "lng": 36.9970831
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": -1.0055808,
+              "lng": 37.1882616
+            },
+            "southwest": {
+              "lat": -1.2604907,
+              "lng": 36.8686713
+            }
+          }
+        },
+        "place_id": "ChIJLWRTspBGLxgRr2kCGLx8pU0",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Kiambu County",
+            "short_name": "Kiambu County",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kenya",
+            "short_name": "KE",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Kiambu County, Kenya",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -0.7584694,
+              "lng": 37.3619435
+            },
+            "southwest": {
+              "lat": -1.3146298,
+              "lng": 36.4909628
+            }
+          },
+          "location": {
+            "lat": -1.0313701,
+            "lng": 36.8680791
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": -0.7584694,
+              "lng": 37.3619435
+            },
+            "southwest": {
+              "lat": -1.3146298,
+              "lng": 36.4909628
+            }
+          }
+        },
+        "place_id": "ChIJzzbxsmA2LxgRaR7dqAnEjOY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Kenya",
+            "short_name": "KE",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Kenya",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 5.033420899999999,
+              "lng": 41.9069449
+            },
+            "southwest": {
+              "lat": -4.724299999999999,
+              "lng": 33.90982109999999
+            }
+          },
+          "location": {
+            "lat": -0.023559,
+            "lng": 37.906193
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 5.033420899999999,
+              "lng": 41.9069449
+            },
+            "southwest": {
+              "lat": -4.724299999999999,
+              "lng": 33.90982109999999
+            }
+          }
+        },
+        "place_id": "ChIJD5BQg9CAJxgR2W2XobAOO0A",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "RXHC+Q8",
+            "short_name": "RXHC+Q8",
+            "types": [
+              "plus_code"
+            ]
+          },
+          {
+            "long_name": "Ruiru",
+            "short_name": "Ruiru",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kiambu County",
+            "short_name": "Kiambu County",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kenya",
+            "short_name": "KE",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "RXHC+Q8 Ruiru, Kenya",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -1.1705,
+              "lng": 36.970875
+            },
+            "southwest": {
+              "lat": -1.170625,
+              "lng": 36.97075
+            }
+          },
+          "location": {
+            "lat": -1.1706026,
+            "lng": 36.9708411
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": -1.169213519708498,
+              "lng": 36.9721614802915
+            },
+            "southwest": {
+              "lat": -1.171911480291502,
+              "lng": 36.9694635197085
+            }
+          }
+        },
+        "place_id": "GhIJFs25ysm68r8RbA5rhUR8QkA",
+        "plus_code": {
+          "compound_code": "RXHC+Q8 Ruiru, Kenya",
+          "global_code": "6GCRRXHC+Q8"
+        },
+        "types": [
+          "plus_code"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "themDistance": {
+    "destination_addresses": [
+      "Eastern Bypass, Ruiru, Kenya"
+    ],
+    "origin_addresses": [
+      "Unnamed Road, Wang'uru, Kenya"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "80.4 km",
+              "value": 80441
+            },
+            "duration": {
+              "text": "1 hour 22 mins",
+              "value": 4927
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  }
+}
