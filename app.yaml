@@ -13,3 +13,17 @@
 #    target_concurrent_requests: 100
 
 runtime: php74 # Replace with php74 to use PHP 7.4
+  entrypoint: .
+
+handlers:
+  - url: /images
+    static_dir: static/images
+
+  - url: /.*
+    script: auto
+
+    # All URLs beginning with /stylesheets are treated as paths to
+    # static files in the stylesheets/ directory.
+    - url: /assets
+      static_dir: assets
+      # ...
