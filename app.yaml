@@ -13,7 +13,7 @@
 #    target_concurrent_requests: 100
 
 runtime: php74 # Replace with php74 to use PHP 7.4
-    entrypoint: .
+entrypoint: .
 
 handlers:
   - url: /images
